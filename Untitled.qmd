@@ -1,0 +1,12 @@
+---
+title: "PA6"
+format:
+  html:
+    theme: default
+self-contained: true
+---
+
+```{r}
+
+```
+
