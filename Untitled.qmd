@@ -1,5 +1,6 @@
 ---
 title: "PA6"
+author: "Seina and Emily Dream Team!"
 format:
   html:
     theme: default
