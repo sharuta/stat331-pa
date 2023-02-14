@@ -1,5 +1,6 @@
 ---
 title: "PA6"
+author: "Seina H and Emily R"
 format:
   html:
     theme: default
